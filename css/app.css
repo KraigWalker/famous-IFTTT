@@ -1,0 +1,52 @@
+html {
+    background-color: white;
+    color: #fff;
+    font-family: Arial;
+}
+
+.layer {
+    background-color: white;
+}
+
+.introText {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.recipeCardHeading {
+  font-weight: bold;
+  padding-top: 2%;
+  padding-left: 2%;
+  line-height: 1px;
+}
+
+.recipeText {
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.then {
+  padding-left: 17px;
+}
+
+.recipeCardExplanation {
+  padding: 2%;
+  color: #525151;
+}
+
+.explanationSummary {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.selected {
+  background-color: rgb(100, 100, 100) !important;
+}
+
+.hidden {
+  visibility: hidden;
+}
